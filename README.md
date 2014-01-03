@@ -1,2 +1,1 @@
-dota2WebAPI
-===========
+Using DOTA2 Web API for fun :)
